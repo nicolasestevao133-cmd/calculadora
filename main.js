@@ -1,3 +1,4 @@
+// NOME: NICOLAS ESTEVÃO RGM: 26110761
 const formulario = document.getElementById("calcForm")/*pegando o formulário*/
 
 formulario.addEventListener("submit", function(e){
